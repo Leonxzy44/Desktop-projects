@@ -1,0 +1,13 @@
+Lindows AIX 2.0 versions guide
+
+Program requirements: Windows 8, 10 or 11. 
+
+Installed apps: Command prompt, Python 3.12 or Terminal.
+
+About Lindows: Fan made software who runs apps, files and games created by Leonxzy. Games and apps are not allowed for copying or editing. 
+
+Guide: All guide will be writen once you enter the app. 
+
+Disclaimer: After games called Retify and calculator, if those games are the first you played, Hacking Snake Game will be aoutomatically opened. Close that and continue with the Lindows AIX. 
+
+Happy playing and coding! 

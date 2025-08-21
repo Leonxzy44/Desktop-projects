@@ -1,0 +1,16 @@
+{
+  "Leonxzy": {
+    "password": "Leonxzy",
+    "highscore": 50,
+    "tokens": 1,
+    "unlocked": [
+      "green",
+      "purple"
+    ],
+    "equipped": "green",
+    "caps_unlocked": [
+      "none"
+    ],
+    "cap_equipped": "none"
+  }
+}
